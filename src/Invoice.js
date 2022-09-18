@@ -254,10 +254,10 @@ class Invoice extends Component {
         <div className={styles.footer}>
           <div className={styles.comments}>
             <h4>Notes</h4>
-            <p>You can Pay through cash in Bank <a href="https://bankofmaharashtra.in/">Bank Address</a>.</p>
-            <p>Use Online Payment Option: Bank Details <a href="https://bankofmaharashtra.in/">Bank Details</a> and <a href="https://pay.google.com/intl/en_in/about/">Google Pay</a> </p>
+            <p>You can Pay through cash in Bank <a href="https://bankofmaharashtra.in/" target='_blank'>Bank Address</a>.</p>
+            <p>Use Online Payment Option: Bank Details <a href="https://bankofmaharashtra.in/" target='_blank'>Bank Details</a> and <a href="https://pay.google.com/intl/en_in/about/" target='_blank'>Google Pay</a> </p>
             <p>Using Credit Card <a href="https://www.sbicard.com/en/personal/credit-cards.page" target='_blank'>Sbi card </a>.</p>
-            <p>Send Cheques <a href="https://www.sbicard.com/">Sbi card </a>.</p>
+            <p>Send Cheques <a href="https://www.sbicard.com/" target='_blank'>Sbi card </a>.</p>
           </div>
           <div className={styles.closing}>
             <div>Thank-you for your business</div>
